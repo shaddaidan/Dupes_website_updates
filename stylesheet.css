@@ -388,9 +388,9 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px) and (orientation: portrait) {
 
-    /* #header{
+    #header{
         background-image: url(images/backgroundphone3.jpg);
-    } */
+    }
     .header-text{
         margin-top: 10%;
         font-size: 16px;
