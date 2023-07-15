@@ -15,11 +15,11 @@ body{
 }
 #header{
     width: 100%;
-    height: auto;
-    /* height:100vh;  */
-    background-image: url(images/background1.jpg);
+    height:100vh; 
+    background-color: #5663b1 ;
+    background-image: url(images/background1.jpg) ;
     /* background-image: url(images/backgroundphone3.jpg); */
-    /* background-size: cover; */
+    background-size: cover;
     /* background-position: center; */
     /* background-repeat: no-repeat; */
     /* background-attachment: fixed;  */
