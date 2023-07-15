@@ -694,3 +694,9 @@ nav .fa-solid{
 		margin: 10px;
 	}
 }
+
+#event_timer_signup_btn {
+    margin: auto;
+    margin-top: 30%;
+    margin-bottom: 10px;
+}
