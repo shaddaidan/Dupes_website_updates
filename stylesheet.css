@@ -383,12 +383,12 @@ nav .fa-solid{
     #header{
         background-image: url(images/backgroundphone3.jpg);
     }
-    /* Safari-specific background image */
+    /* Safari-specific background image
   @supports (-webkit-touch-callout: none) {
     #header{
         background-image: url(images/backgroundphone3.jpg);
     }
-    }
+    } */
     .header-text{
         margin-top: 10%;
         font-size: 16px;
