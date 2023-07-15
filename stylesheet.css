@@ -379,10 +379,16 @@ nav .fa-solid{
     display: none;
 }
 
-@media only screen and (max-width:600px){
-    #header{
+/* @media only screen and (max-width:600px){ */
+
+
+
+
+@media only screen and (max-width: 600px) and (orientation: portrait) {
+
+    /* #header{
         background-image: url(images/backgroundphone3.jpg);
-    }
+    } */
     /* Safari-specific background image
   @supports (-webkit-touch-callout: none) {
     #header{
