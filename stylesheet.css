@@ -385,8 +385,8 @@ nav .fa-solid{
     }
     /* Safari-specific background image */
   @supports (-webkit-touch-callout: none) {
-    #header {
-      background-image: url(images/backgroundphone3.jpg);
+    #header{
+        background-image: url(images/backgroundphone3.jpg);
     }
     }
     .header-text{
