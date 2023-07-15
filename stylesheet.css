@@ -386,7 +386,8 @@ nav .fa-solid{
     /* Safari-specific background image */
   @supports (-webkit-touch-callout: none) {
     #header {
-      background-image: url(images/backgroundsafari.jpg);
+      background-image: url(images/backgroundphone3.jpg);
+    }
     }
     .header-text{
         margin-top: 10%;
@@ -460,3 +461,4 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+
